@@ -1,0 +1,92 @@
+body{
+    background-color: rgb(138, 240, 172);
+}
+.tot{
+    position: fixed;
+    left: 25%;
+    height: 800px;
+    width:800px ;
+background-color: red;
+border-radius: 50%;
+}
+ .top{
+    position: absolute;
+    
+    top: 5%;
+
+    height: 700px;
+    width: 800px;
+    border-radius: 50%;
+    background-color:rgb(138, 240, 172);
+} 
+
+ .block{
+    height: 400px;
+    width: 800px;
+    background-color:rgb(138, 240, 172);
+    position: fixed;
+    left:25%;
+    top: 22%;
+}
+.tit{
+    position: absolute;
+    top: 8%;
+    left: 12%;
+    height: 600px;
+    width: 600px;
+    background-color: yellow;
+    border-radius: 50%;
+}
+ .put{position: absolute;
+    top: 7%;
+    
+    
+
+    height: 500px;
+    width: 600px;
+    border-radius: 50%;
+    background-color:rgb(138, 240, 172);
+} 
+.cut{
+    width: 400px;
+    height: 400px;
+    background-color: black;
+    border-radius: 50%;
+    position: fixed;
+    left:38%;
+    top: 25%;
+}
+.luck{
+    width: 350px;
+    height: 450px;
+    border-radius: 50%;
+    background-color:rgb(138, 240, 172) ;
+    position: absolute;
+    top: -3%;
+    left: 6%;
+    
+}
+.dive{ 
+    height: 80px;
+    width: 370px;
+    background-color:rgb(138, 240, 172);
+    position: fixed;
+    top: 25%;
+    left: 40%;
+    
+}
+.live{
+    height: 80px;
+    width: 400px;
+    background-color:rgb(138, 240, 172);
+    position: fixed;
+    top: 59%;
+    left: 38%;
+    
+    
+    
+
+}
+ 
+
+
